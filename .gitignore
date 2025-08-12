@@ -26,6 +26,7 @@ htmlcov/
 .pytype/
 
 # Jupyter
+practice.ipynb
 .ipynb_checkpoints/
 .profile_default/
 # If you export large outputs:
