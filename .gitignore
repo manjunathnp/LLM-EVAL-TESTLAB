@@ -1,0 +1,43 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.so
+*.pyd
+*.pyo
+
+# Virtual environments (your case is 'testlab')
+.venv/
+venv/
+env/
+ENV/
+testlab/
+
+# Packaging / build
+build/
+dist/
+*.egg-info/
+
+# Tools & caches
+.mypy_cache/
+.pytest_cache/
+.coverage
+htmlcov/
+.pyre/
+.pytype/
+
+# Jupyter
+.ipynb_checkpoints/
+.profile_default/
+# If you export large outputs:
+# *.nbconvert.ipynb
+
+# IDE / OS
+.DS_Store
+.vscode/
+.idea/
+
+# Env/config
+*.env
+.env
+.env.*
+*.sqlite3
