@@ -29,6 +29,7 @@ htmlcov/
 practice.ipynb
 .ipynb_checkpoints/
 .profile_default/
+.testlab/
 # If you export large outputs:
 # *.nbconvert.ipynb
 
